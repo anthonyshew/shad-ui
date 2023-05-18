@@ -9,9 +9,7 @@
     "url": "https://twitter.com/shadcn"
   },
   "workspaces": [
-    "apps/*",
-    "packages/*",
-    "templates/*"
+    "components"
   ],
   "scripts": {
     "build": "turbo run build",
